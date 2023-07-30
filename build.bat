@@ -39,4 +39,4 @@ if ERRORLEVEL != 0 (
 
 :end
 
-
+pause

@@ -468,7 +468,7 @@ int main(int argc, char* argv[])
 						case SDL_SCANCODE_R:
                         {
                             vec3f& playerPos = (Memory.transforms.block[gameState.entityManager.playerEntity].position);
-							playerPos = vec3f(5.0f,1.0f,5.0f);
+							playerPos = vec3f(10.0f,1.0f,10.0f);
 							break;
                         }
                         case SDL_SCANCODE_P:
