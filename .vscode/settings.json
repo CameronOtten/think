@@ -1,0 +1,7 @@
+{
+    "C_Cpp.dimInactiveRegions": true,
+    "files.associations": {
+        "xiosbase": "cpp",
+        "algorithm": "cpp"
+    }
+}
