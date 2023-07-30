@@ -1,7 +1,7 @@
 This project is meant to be a learning experience for myself and others and serves as an example of the difference between making a game and making a game engine. There is quite a bit of custom stuff that does really just the minimal thing to work and is meant to be that way. This is not architected to be an engine to make any arbitrary game but in the end will just be a game. There is stuff in here that can be used in an engine like the glTF import code or the rendering as well. The style that this code is written in may not be for everyone but is a good way to structure your code to make it easy to refactor as you are working out the details of how something works.
 
 To build (only in debug atm)
-	1)install visual studio community 2019 or visual studio community 2022
+	1)install visual studio community 2019
 	2)run build.bat (just double click it or run from command line)
 	3)find the build in builds/Windows(Debug) or just use run.bat for a shortcut
  
